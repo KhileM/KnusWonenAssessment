@@ -1,4 +1,4 @@
-# Built using React.
+# Built using React and TailwindCSS
 
 
 This file provides a minimal setup to get Databalk Assessment running on your local machine. 
@@ -6,7 +6,7 @@ This file provides a minimal setup to get Databalk Assessment running on your lo
 instructions:
 
   - clone the repository to your local environment, using the command below: 
-      - git clone https://KhileM/KnusWonenAssessment.git
+      - git clone https://github.com/KhileM/KnusWonenAssessment.git
       
   - cd to the directory where you cloned the repository and run the command below:
       - npm install
